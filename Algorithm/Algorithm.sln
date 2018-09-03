@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm", "Algorithm\Algorithm.vcxproj", "{E9345236-1D3A-40C1-B492-94F9BA6EB348}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BFS", "BFS\BFS.vcxproj", "{78C5779A-099E-4EB6-9C12-8D4B353B10FF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DFS", "DFS\DFS.vcxproj", "{B6884CCE-9473-4AA4-9FCA-8DDFEBA00B2A}"
@@ -17,14 +15,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E9345236-1D3A-40C1-B492-94F9BA6EB348}.Debug|x64.ActiveCfg = Debug|x64
-		{E9345236-1D3A-40C1-B492-94F9BA6EB348}.Debug|x64.Build.0 = Debug|x64
-		{E9345236-1D3A-40C1-B492-94F9BA6EB348}.Debug|x86.ActiveCfg = Debug|Win32
-		{E9345236-1D3A-40C1-B492-94F9BA6EB348}.Debug|x86.Build.0 = Debug|Win32
-		{E9345236-1D3A-40C1-B492-94F9BA6EB348}.Release|x64.ActiveCfg = Release|x64
-		{E9345236-1D3A-40C1-B492-94F9BA6EB348}.Release|x64.Build.0 = Release|x64
-		{E9345236-1D3A-40C1-B492-94F9BA6EB348}.Release|x86.ActiveCfg = Release|Win32
-		{E9345236-1D3A-40C1-B492-94F9BA6EB348}.Release|x86.Build.0 = Release|Win32
 		{78C5779A-099E-4EB6-9C12-8D4B353B10FF}.Debug|x64.ActiveCfg = Debug|x64
 		{78C5779A-099E-4EB6-9C12-8D4B353B10FF}.Debug|x64.Build.0 = Debug|x64
 		{78C5779A-099E-4EB6-9C12-8D4B353B10FF}.Debug|x86.ActiveCfg = Debug|Win32
