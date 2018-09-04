@@ -1,5 +1,4 @@
 /*
-(Example)
 Input :
 1 //test case 개수
 9 1 // 정점의 개수, 시작 정점
